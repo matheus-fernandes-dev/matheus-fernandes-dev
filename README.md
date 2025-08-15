@@ -21,3 +21,5 @@
 
 ---
 
+![Snake animation](https://github.com/matheus-fernandes-dev/matheus-fernandes-dev/blob/output/github-contribution-grid-snake.svg)
+
