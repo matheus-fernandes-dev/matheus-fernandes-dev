@@ -1,14 +1,9 @@
 # 👋 Olá, eu sou o Matheus Fernandes
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFPE** e apaixonado por **front-end**, **design** e criação de experiências digitais.
-
----
-
-## 📌 Sobre mim
 - 🎓 Sou estudante do curso de **Análise e Desenvolvimento de Sistemas** no **IFPE**.
-- 🎨 Amo participar de projetos de criação de experiências digitais visuais, **design**, **front-end** e muito mais.
+- 🎨 Amo participar de projetos **front-end**.
 - 🙋‍♂️ Pronouns: ele/dele.
-- 💡 Meu sonho era ser fisioterapeuta e até já me aventurei na logística, antes de descobrir minha verdadeira paixão: a tecnologia.
+- 💡 Meu sonho era ser fisioterapeuta antes de descobrir minha verdadeira vocação.
 
 ---
 
@@ -31,8 +26,3 @@
 ## 📊 Estatísticas
 ![Matheus Fernandes' GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-fernandes-dev&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-fernandes-dev&layout=compact&theme=midnight-purple)
-
----
-
-## 🐍 Snake Animation
-![Snake animation](https://github.com/matheus-fernandes-dev/matheus-fernandes-dev/blob/output/github-contribution-grid-snake.svg)
