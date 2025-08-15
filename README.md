@@ -1,10 +1,9 @@
 <h1>👋 Olá, eu sou o Matheus Fernandes</h1>
 
 <p>
-🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>IFPE</strong> <br>
-🎨 Apaixonado por projetos de <strong>front-end</strong> e experiências digitais visuais <br>
-🙋‍♂️ Pronouns: ele/dele <br>
-💡 Meu sonho era ser fisioterapeuta antes de descobrir minha verdadeira vocação: tecnologia
+🎓 Rumo a pós de <strong>Engenharia front-end</strong> <br>
+🎨 Apaixonado por experiências visuais <br>
+💡 Meu sonho era ser fisioterapeuta antes de descobrir minha verdadeira vocação: desenvolvedor front-end
 </p>
 
 ---
@@ -24,4 +23,3 @@
 
 ---
 
-![Snake animation](https://github.com/matheus-fernandes-dev/matheus-fernandes-dev/blob/output/github-contribution-grid-snake.svg)
