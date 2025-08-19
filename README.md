@@ -7,9 +7,10 @@ Tenho como objetivo cursar uma pós-graduação em <strong> Engenharia Front-end
 
 
 ---
+<img align="right" alt="" height="190px" src="./src/study.gif">
 <h3 align="left"> 📬 Onde me encontrar </h3>
 
-[![E-mail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:matheusfernandes.trabalho@gmail.com)  
+[![E-mail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:matheusfernandes.trabalho@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/matheusdesouzafernandes/)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord&logoColor=FF00F6&color:FFF)](https://discordapp.com/users/mfernandes//)
 
