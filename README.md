@@ -8,7 +8,7 @@ Tenho como objetivo cursar uma pós-graduação em <strong> Engenharia Front-end
 
 #
 
-<img align="right" alt="" height="190px" src="./imagem/ComputerWorking.gif">
+<img align="right" alt="" height="190px" src="./imagem/WorkPlottingbyPudgyPenguins.gif">
 
 <h3 align="left"> Onde me encontrar </h3>
 
