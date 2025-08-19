@@ -3,7 +3,7 @@
 <p>
 Estudante de <strong> Análise e Desenvolvimento de Sistemas </strong> no <strong> Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE) </strong>. <br>
 Iniciei minha trajetória sonhando em ser fisioterapeuta, mas descobri minha verdadeira vocação na tecnologia. <br>
-Tenho como objetivo cursar uma pós-graduação em <strong> Engenharia Front-end</strong>, sempre buscando evoluir e criar experiências visuais inovadoras.
+Tenho como objetivo cursar uma pós-graduação em <strong> Engenharia Front-end</strong> para aprofundar meu conhecimento técnico e teórico, buscando criar experiências visuais verdadeiramente inovadoras e intuitivas que transformem a interação do usuário com a tecnologia.
 </p>
 
 #
