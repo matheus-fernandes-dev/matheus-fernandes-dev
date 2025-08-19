@@ -11,7 +11,7 @@ on:
   # Executa em todo push na branch master
   push:
     branches:
-    - master
+      - master
 
 jobs:
   generate:
@@ -26,9 +26,12 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color=7CA07B&snake=FBF1C7&stroke=B57614
-            dist/github-contribution-grid-snake-dark.svg?color=7CA07B&snake=FBF1C7&stroke=B57614
+          output: dist/github-contribution-grid-snake.svg
+          output_dark: dist/github-contribution-grid-snake-dark.svg
+          palette: custom
+          color: 7CA07B
+          snake: FBF1C7
+          stroke: B57614
           
       # Envia o conteúdo gerado para a branch de saída
       - name: push github-contribution-grid-snake.svg to the output branch
