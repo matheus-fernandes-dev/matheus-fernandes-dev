@@ -2,7 +2,7 @@
 
 <p>
 Estudante de <strong> Análise e Desenvolvimento de Sistemas </strong> no <strong> Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE) </strong>. <br>
-Iniciei minha trajetória sonhando em ser fisioterapeuta, mas descobri minha verdadeira vocação na tecnologia. <br>
+Iniciei minha trajetória sonhando em ser fisioterapeuta, mas descobri minha verdadeira vocação na tecnologia. <br><br>
 Tenho como objetivo cursar uma pós-graduação em <strong> Engenharia Front-end</strong> para aprofundar meu conhecimento técnico e teórico, buscando criar experiências visuais verdadeiramente inovadoras e intuitivas que transformem a interação do usuário com a tecnologia.
 </p>
 
@@ -15,7 +15,7 @@ Tenho como objetivo cursar uma pós-graduação em <strong> Engenharia Front-end
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-7CA07B?style=for-the-badge&logo=linkedin&logoColor=FBF1C7)](https://www.linkedin.com/in/matheusdesouzafernandes/)
 [![Discord](https://img.shields.io/badge/-Discord-7CA07B?style=for-the-badge&logo=discord&logoColor=FBF1C7)](https://discordapp.com/users/mfernandes//)
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">Já aprendi </h3>
 
 <div align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
@@ -35,16 +35,13 @@ Tenho como objetivo cursar uma pós-graduação em <strong> Engenharia Front-end
 
 #
 
-<h3> * GitHub Stats * </h3>
+<h3> * Informações sobre linguagens e commits * </h3><br>
   
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=matheus-fernandes-dev&show_icons=true&theme=gruvbox_light" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-fernandes-dev&layout=compact&theme=gruvbox_light" alt="Top Languages" />
 </p>
 
-#
-
-<h3> A cobrinha dos meus commits </h3>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
